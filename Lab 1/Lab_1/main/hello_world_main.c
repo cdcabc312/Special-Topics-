@@ -4,6 +4,7 @@
  * SPDX-License-Identifier: CC0-1.0
  */
 
+//Adding more comments for the git graph, I think I messed up the order of operations of this assignment, but this should be up and working
 #include <stdio.h>
 #include <inttypes.h>
 #include "sdkconfig.h"
