@@ -53,7 +53,7 @@ void app_main(void)
     /* Configure LED GPIO */
     gpio_reset_pin(LED_GPIO);
     gpio_set_direction(LED_GPIO, GPIO_MODE_OUTPUT);
-
+    
     int led_state = 0;
 
     while (1) {
